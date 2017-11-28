@@ -24,5 +24,5 @@ $ npm install
 $ npm build
 ```
 
-### Web Technologies : ReactJS and React Select
-### Scaffolded using create-react-app
+#### Web Technologies : ReactJS and React Select
+#### Scaffolded using create-react-app
